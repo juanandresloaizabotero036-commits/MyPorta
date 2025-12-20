@@ -1,5 +1,5 @@
 function cambiarTexto() {
-    document.getElementById("mensaje").innerHTML = "¡bienvenido a javascript!";
+    document.getElementById("msn").innerHTML = "¡bienvenido a javascript!";
 }
 
 
